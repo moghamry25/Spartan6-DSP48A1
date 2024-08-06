@@ -1,0 +1,188 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/courses/Digital/session5/during session
+T_opt
+!s110 1722379660
+VX0431YCMUIffcFX<S8Qj03
+Z2 04 6 4 work DSP_TB fast 0
+=1-28f10e4942ba-66a96d8b-29f-3d4
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1722465356
+VC12W^7T4FQNDKQ76>@aCn3
+R2
+=1-28f10e4942ba-66aabc4c-10-4ff8
+R3
+R4
+R5
+n@_opt1
+R6
+vDSP
+Z7 !s110 1722465350
+!i10b 1
+!s100 i21nJO_cVkN@:KPg`cjLl0
+I^UnIC?:n=oiAI7dAjJTT71
+Z8 dD:/courses/Digital/projects/Project1 - Spartan6 DSP48A1
+w1722463166
+8DSP.v
+FDSP.v
+!i122 153
+L0 1 68
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1722465350.000000
+Z12 !s107 REG_MUX.V|mux4.v|DSP_TB.v|DSP.v|
+Z13 !s90 -reportprogress|300|DSP.v|DSP_TB.v|mux4.v|REG_MUX.V|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@d@s@p
+vDSP_TB
+R7
+!i10b 1
+!s100 Qg=Bdk:F7_goYni=G13=:1
+IMEd`X[zT^cLPP1e_CNXP[3
+R8
+w1722465341
+8DSP_TB.v
+FDSP_TB.v
+!i122 153
+L0 1 97
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+n@d@s@p_@t@b
+vmux4
+R7
+!i10b 1
+!s100 TXl1_ANgZJf9jDbGT0__z0
+I>R?mNS>d:=PaP37G<VBFS1
+R8
+w1722377452
+8mux4.v
+Fmux4.v
+!i122 153
+L0 1 19
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+vREG_MUX
+R7
+!i10b 1
+!s100 lzDFe5Cko>^572hoSBcjd2
+I_h1d8^lm_3Qz@8L36mlFA3
+R8
+w1722379154
+8REG_MUX.V
+FREG_MUX.V
+!i122 153
+L0 1 54
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
+n@r@e@g_@m@u@x
