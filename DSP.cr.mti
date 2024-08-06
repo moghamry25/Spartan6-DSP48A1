@@ -1,0 +1,29 @@
+{D:/courses/Digital/projects/Project1 - Spartan6 DSP48A1/mux4.v} {1 {vlog -work work -vopt -stats=none {D:/courses/Digital/projects/Project1 - Spartan6 DSP48A1/mux4.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} {D:/courses/Digital/projects/Project1 - Spartan6 DSP48A1/REG_MUX.v} {1 {vlog -work work -vopt -stats=none {D:/courses/Digital/projects/Project1 - Spartan6 DSP48A1/REG_MUX.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module REG_MUX
+
+Top level modules:
+	REG_MUX
+
+} {} {}} {D:/courses/Digital/projects/Project1 - Spartan6 DSP48A1/DSP.v} {1 {vlog -work work -vopt -stats=none {D:/courses/Digital/projects/Project1 - Spartan6 DSP48A1/DSP.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP
+
+Top level modules:
+	DSP
+
+} {} {}} {D:/courses/Digital/projects/Project1 - Spartan6 DSP48A1/DSP_TB.v} {1 {vlog -work work -vopt -stats=none {D:/courses/Digital/projects/Project1 - Spartan6 DSP48A1/DSP_TB.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP_TB
+
+Top level modules:
+	DSP_TB
+
+} {} {}}
